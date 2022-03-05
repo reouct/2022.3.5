@@ -1,0 +1,31 @@
+nav {
+  text-align: center;
+}
+.icon {
+  width: 80px;
+  padding-top: 10px;
+}
+h1 {
+  text-align: center;
+}
+#Idaho {
+  text-align: center;
+}
+footer {
+  padding: 25px 50px;
+  padding-top: 15px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+}
+nav a {
+  text-align: center;
+  text-decoration: none;
+  padding: 35px;
+}
+footer a {
+  text-decoration: none;
+  text-align: center;
+}
+/*/
